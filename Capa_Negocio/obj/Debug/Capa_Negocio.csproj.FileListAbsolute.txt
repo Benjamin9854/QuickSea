@@ -1,0 +1,22 @@
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\benja\Desktop\SEMESTRE 4\DESARROLLO DE S. DE IN\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

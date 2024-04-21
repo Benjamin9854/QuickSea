@@ -1,0 +1,46 @@
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.exe.config
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.exe.manifest
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.application
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.exe
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Entidad.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Negocio.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Datos.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Entidad.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Negocio.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Datos.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.Properties.Resources.resources
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.exe.manifest
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.application
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.exe
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.pdb
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.exe.config
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.exe.manifest
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.application
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.exe
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\QuickSea.pdb
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Entidad.dll
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Negocio.dll
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Datos.dll
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Entidad.pdb
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Negocio.pdb
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Capa_Datos.pdb
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.Grupos.resources
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.Properties.Resources.resources
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.exe.manifest
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.application
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.exe
+C:\Users\benja\Desktop\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\WindowsFormsApp1\WindowsFormsApp1\obj\Release\QuickSea.Grupos.resources

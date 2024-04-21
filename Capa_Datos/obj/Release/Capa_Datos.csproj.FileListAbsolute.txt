@@ -1,0 +1,18 @@
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Datos\bin\Release\Capa_Entidad.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Datos\bin\Release\Capa_Entidad.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.csproj.CopyComplete
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.pdb
+C:\Users\benja\Desktop\MantenimientoC#\Capa_Datos\bin\Release\Capa_Datos.dll
+C:\Users\benja\Desktop\MantenimientoC#\Capa_Datos\bin\Release\Capa_Datos.pdb
+C:\Users\benja\Desktop\MantenimientoC#\Capa_Datos\bin\Release\Capa_Entidad.dll
+C:\Users\benja\Desktop\MantenimientoC#\Capa_Datos\bin\Release\Capa_Entidad.pdb
+C:\Users\benja\Desktop\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.csproj.CopyComplete
+C:\Users\benja\Desktop\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.dll
+C:\Users\benja\Desktop\MantenimientoC#\Capa_Datos\obj\Release\Capa_Datos.pdb

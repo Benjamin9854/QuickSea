@@ -1,0 +1,6 @@
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Entidad\bin\Release\Capa_Entidad.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Entidad\bin\Release\Capa_Entidad.pdb
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Entidad\obj\Release\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Entidad\obj\Release\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Entidad\obj\Release\Capa_Entidad.dll
+C:\Users\benja\Desktop\SEMESTRE 4\MantenimientoC#\Capa_Entidad\obj\Release\Capa_Entidad.pdb
